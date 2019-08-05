@@ -1,7 +1,13 @@
-{
- "name": "App",
- "icons": [
-  {
+{"name" : "Masa Contabilidade",
+    "short_name" : "App Masa Contabilidade",
+    "description" : "Serviços Contábeis para Baixa Grande do Ribeiro e Região.",
+    "start_url" : "https://app.masacontabilidade.com",
+    "scope" : "https://app.masacontabilidade.com",
+    "display" : "standalone",
+    "orientation" : "landscape",
+    "lang" : "Portuguese",
+    "icons": [
+     {
    "src": "\/android-icon-36x36.png",
    "sizes": "36x36",
    "type": "image\/png",
