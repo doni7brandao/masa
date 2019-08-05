@@ -4,7 +4,7 @@
     "start_url" : "https://app.masacontabilidade.com",
     "scope" : "https://app.masacontabilidade.com",
     "display" : "standalone",
-    "orientation" : "landscape",
+    "orientation" : "portrait",
     "lang" : "Portuguese",
     "icons": [
      {
